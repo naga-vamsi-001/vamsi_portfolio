@@ -3,8 +3,8 @@
 #### Technical Skills: Python, PySpark, SQL, AWS, Azure, Snowflake, Microsoft Fabric, Power BI 
 
 ## Education							       		
-- M.S., Computer Science | CSU	 			        		
-- B.S., Electronics and Communication Engineering | VRSEC
+- M.S., Computer Science | CSU at Chicago (_May 2022_) 			        		
+- B.S., Electronics and Communication Engineering | VRSEC at India (_Apr 2019_)
 
 ## Work Experience  
 ### Data Engineer  
@@ -45,5 +45,5 @@
 
 ## 🎯 Learning & Certifications  
 ✔ Fabric Analytics Engineer Associate: [Certification](https://learn.microsoft.com/en-us/users/nagavamsivuyyala-1355/credentials/836825518b651aac) 
-✔ Azure Data Engineer Associate: Credentials - [NagaV-1108 | Microsoft Learn ](https://learn.microsoft.com/en-us/users/nagav-1108/credentials/b80c47a6e6c32aa4) 
-✔ AWS Certified Data Analytics Specialty: AWS Certified Data Analytics Specialty - [Credly](https://www.credly.com/badges/41337cea-a625-4a5d-8ae7-52135980c631/public_url)
+✔ Azure Data Engineer Associate: [NagaV-1108 | Microsoft Learn ](https://learn.microsoft.com/en-us/users/nagav-1108/credentials/b80c47a6e6c32aa4) 
+✔ AWS Certified Data Analytics Specialty: [Credly](https://www.credly.com/badges/41337cea-a625-4a5d-8ae7-52135980c631/public_url)
