@@ -3,8 +3,8 @@
 #### Technical Skills: Python, PySpark, SQL, AWS, Azure, Snowflake, Microsoft Fabric, Power BI 
 
 ## Education							       		
-- M.S., Computer Science | CSU at Chicago (_May 2022_) 			        		
-- B.S., Electronics and Communication Engineering | VRSEC at India (_Apr 2019_)
+- M.S., Computer Science | CSU at Chicago		        		
+- B.S., Electronics and Communication Engineering | VRSEC at India
 
 ## Work Experience  
 ### Data Engineer  
